@@ -1,0 +1,59 @@
+table.wow-armory-table {
+    font-size:16px;
+}
+
+table.wow-armory-table , .wow-armory-table td
+{
+    border-bottom: 1px solid #4c4c4c;
+    border-top:0 none;
+}
+
+.characters-by-class {
+    display:inline-block;
+}
+
+.characters-by-class td {
+    vertical-align: middle;
+    margin-left:5px;
+}
+
+.characters-by-class table, .characters-by-class table th, .characters-by-class table tr, .characters-by-class table td {
+    border: 0 none!important;
+    padding: 0 0 0 5px!important;
+}
+
+.characters-by-class table {
+    margin-bottom:25px!important;
+    width:100%!important;
+}
+
+.characters-by-class hr {
+    margin:10px;
+}
+
+.class-small {
+    display:inline-block;
+    background-repeat: no-repeat;
+    background-image:url("../icons/icons_small.png");
+    margin-right:15px;
+    margin-left: 5px;
+    vertical-align:middle;
+}
+
+.class-1 {width:18px; height:18px; background-position: -162px -2px}
+.class-2 {width:18px; height:18px; background-position: -142px -2px}
+.class-3 {width:18px; height:18px; background-position: -122px -2px}
+.class-4 {width:18px; height:18px; background-position: -102px -2px}
+.class-5 {width:18px; height:18px; background-position: -82px -2px}
+.class-6 {width:18px; height:18px; background-position: -62px -2px}
+.class-7 {width:18px; height:18px; background-position: -42px -2px}
+.class-8 {width:18px; height:18px; background-position: -22px -2px}
+.class-9 {width:18px; height:18px; background-position: -2px -2px}
+.class-10 {width:18px; height:18px; background-position: -202px -2px}
+.class-11 {width:18px; height:18px; background-position: -182px -2px}
+.wow_icon_16x16 {width:16px; height:16px; background-position: -222px -2px}
+.wow-icon-small {
+    background:url("../icons/wow_icon_16x16.png") 0 0 no-repeat;
+    width:16px;
+    height:16px;
+}

@@ -1,0 +1,295 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WoWArmoryTable\n"
+"POT-Creation-Date: 2014-05-12 16:30+0100\n"
+"PO-Revision-Date: 2014-05-12 16:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: C:\\Dropbox\\PHP\\WoWArmoryTable\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: WoWArmoryTable.php:129
+msgid "WoW Armory Table"
+msgstr "WoW Armory Table"
+
+#: WoWArmoryTable.php:136 WoWArmoryTable.php:140 php/class.table.php:158
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du hast nicht die nötigen Rechte diese Seite zu sehen."
+
+#: WoWArmoryTable.php:177 php/class.characters.php:132
+msgid "Characters of"
+msgstr "Charakter von"
+
+#: WoWArmoryTable.php:191
+msgid "Poll Chars"
+msgstr "Hole Charaktere"
+
+#: WoWArmoryTable.php:192
+msgid "First Character Poll"
+msgstr "Hole Charaktere"
+
+#: WoWArmoryTable.php:193
+msgid ""
+"Use it only for the First Poll (Fill out Guild Name, Server and Region First)"
+msgstr ""
+"Benutze diese Funktion nur wenn die Charaktertabelle leer ist (z.B. nach dem "
+"ersten Aktivieren)."
+
+#: WoWArmoryTable.php:194
+msgid "Update Chars"
+msgstr "Update Chars"
+
+#: WoWArmoryTable.php:195
+msgid "Update Characters"
+msgstr "Update Charakter"
+
+#: WoWArmoryTable.php:196
+msgid "This is for Updating your guilds Characters"
+msgstr "Hiermit kannst du z.B. das Level deiner Charaktere aktualisieren."
+
+#: WoWArmoryTable.php:200 WoWArmoryTable.php:201
+msgid "Empty Characters"
+msgstr "Leere Charaktere"
+
+#: WoWArmoryTable.php:202
+msgid ""
+"If something went wrong and you would like to empty the whole table, use "
+"this."
+msgstr "Benutze diese Funktion wenn du die Charaktertabelle leeren möchtest."
+
+#: WoWArmoryTable.php:204
+msgid "Classes in English"
+msgstr "Klassennamen in Englisch"
+
+#: WoWArmoryTable.php:205
+msgid "English Classes"
+msgstr "Englische Klassennamen"
+
+#: WoWArmoryTable.php:206
+msgid "Use this button to switch to english Classnames."
+msgstr "Mit diesem Button kannst du auf englische Klassennamen wechseln."
+
+#: WoWArmoryTable.php:210
+msgid "Reset Classnames to Bloglanguage"
+msgstr "Klassennamen auf Blogsprache zurück setzen."
+
+#: WoWArmoryTable.php:211
+msgid "Reset Classes"
+msgstr "Klassen zurücksetzen"
+
+#: WoWArmoryTable.php:212
+msgid "Use this button to switch back to classnames in your blog's language."
+msgstr ""
+"Mit diesem Button kannst du die Klassennamen auf deine Blogsprache zurück "
+"stellen."
+
+#: php/class.characters.php:231 php/class.settings.php:331
+#: php/class.settings.php:336 php/class.settings.php:341
+#: php/class.settings.php:346 php/class.settings.php:351
+#: php/class.settings.php:356 php/class.settings.php:361
+#: php/class.settings.php:366 php/class.settings.php:371
+#: php/class.settings.php:376 php/class.table.php:140
+msgid "Rank"
+msgstr "Rang"
+
+#: php/class.characters.php:231 php/class.table.php:137
+msgid "Name"
+msgstr "Name"
+
+#: php/class.characters.php:231 php/class.table.php:139
+msgid "Level"
+msgstr "Level"
+
+#: php/class.characters.php:231 php/class.table.php:138
+msgid "Class"
+msgstr "Klasse"
+
+#: php/class.characters.php:265
+msgid "Please Wait..."
+msgstr "Bitte warten..."
+
+#: php/class.characters.php:266
+msgid "Show _MENU_ entries."
+msgstr "Zeige _MENU_ Einträge."
+
+#: php/class.characters.php:267
+msgid "No entries present."
+msgstr "Keine Einträge vorhanden."
+
+#: php/class.characters.php:268
+msgid "_START_ to _END_ from _TOTAL_ entries"
+msgstr "_START_ bis _END_ von _TOTAL_ Einträgen"
+
+#: php/class.characters.php:269
+msgid "0 to 0 from 0 entries"
+msgstr "0 bis 0 von 0 Einträgen"
+
+#: php/class.characters.php:270
+msgid "(filtered from _MAX_  entries)"
+msgstr "(gefiltert von _MAX_ Einträgen)"
+
+#: php/class.characters.php:272
+msgid "Search"
+msgstr "Suchen"
+
+#: php/class.characters.php:275
+msgid "First"
+msgstr "Erste"
+
+#: php/class.characters.php:276
+msgid "Previous"
+msgstr "Vorherige"
+
+#: php/class.characters.php:277
+msgid "Next"
+msgstr "Nächste"
+
+#: php/class.characters.php:278
+msgid "Last"
+msgstr "Letzte"
+
+#: php/class.settings.php:24
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: php/class.settings.php:32
+msgid "WoW Armory Table - Settings"
+msgstr "WoW Armory Table - Einstellungen"
+
+#: php/class.settings.php:54
+msgid "Base Settings"
+msgstr "Grundeinstellungen"
+
+#: php/class.settings.php:61
+msgid "Region"
+msgstr "Region"
+
+#: php/class.settings.php:69
+msgid "Server"
+msgstr "Server"
+
+#: php/class.settings.php:77
+msgid "Guild Name"
+msgstr "Gildenname"
+
+#: php/class.settings.php:85
+msgid "Entries to show on the table"
+msgstr "Wie viele Einträge in der Tabelle?"
+
+#: php/class.settings.php:93
+msgid "Guild Ranks"
+msgstr "Gildenränge"
+
+#: php/class.settings.php:101
+msgid "Style Settings"
+msgstr "Style Einstellungen"
+
+#: php/class.settings.php:108
+msgid "Class Colors"
+msgstr "Klassenfarben"
+
+#: php/class.settings.php:116
+msgid "Normal View Colors"
+msgstr "Farben - Normale Ansicht"
+
+#: php/class.settings.php:124
+msgid "Class View Colors"
+msgstr "Farben - Klassenansicht "
+
+#: php/class.settings.php:187
+msgid "Warrior"
+msgstr "Krieger"
+
+#: php/class.settings.php:192
+msgid "Paladin"
+msgstr "Paladin"
+
+#: php/class.settings.php:197
+msgid "Hunter"
+msgstr "Jäger"
+
+#: php/class.settings.php:202
+msgid "Rogue"
+msgstr "Schurke"
+
+#: php/class.settings.php:207
+msgid "Priest"
+msgstr "Priester"
+
+#: php/class.settings.php:212
+msgid "Death Knight"
+msgstr "Todesritter"
+
+#: php/class.settings.php:217
+msgid "Shaman"
+msgstr "Schamane"
+
+#: php/class.settings.php:222
+msgid "Mage"
+msgstr "Magier"
+
+#: php/class.settings.php:227
+msgid "Warlock"
+msgstr "Hexenmeister"
+
+#: php/class.settings.php:232
+msgid "Monk"
+msgstr "Mönch"
+
+#: php/class.settings.php:237
+msgid "Druid"
+msgstr "Druide"
+
+#: php/class.settings.php:245 php/class.settings.php:263
+msgid "Odd Row"
+msgstr "Ungerade Reihe"
+
+#: php/class.settings.php:250 php/class.settings.php:268
+msgid "Even Row"
+msgstr "Gerade Reihe"
+
+#: php/class.settings.php:255
+msgid "Border Color"
+msgstr "Farbe der einzelnen Trennlinien"
+
+#: php/class.settings.php:273
+msgid "Font Color"
+msgstr "Schriftfarbe"
+
+#: php/class.settings.php:278
+msgid "Overall Background"
+msgstr "Gesamter Hintergund"
+
+#: php/class.settings.php:283
+msgid "Divider Color (hr)"
+msgstr "Farbe des Trenners (hr)"
+
+#: php/class.settings.php:292
+msgid "Choose..."
+msgstr "Wähle..."
+
+#: php/class.settings.php:331
+msgid "Highest Rank, like Guild master"
+msgstr "Höchster Rank, z.B. Gildenmeister"
+
+#: php/class.settings.php:376
+msgid "Lowest Rank"
+msgstr "Niedrigster Rang"
+
+#: php/class.table.php:42 php/class.table.php:62
+msgid "Delete"
+msgstr "Löschen"
+
+#: php/class.table.php:63
+msgid "Add Group"
+msgstr "Gruppe hinzufügen"
+
+#~ msgid "Edit"
+#~ msgstr "Bearbeiten"
